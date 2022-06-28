@@ -1,0 +1,17 @@
+//ex -1 nesting => 중첩 구조 사용
+ nav{
+    background-color: aquamarine;
+    padding: 10px;
+    height: 50px;
+    ul {
+        display: flex;
+        justify-content: flex-end;
+        list-style: none;
+        li{
+            color: white;
+            margin-right: 10px;
+        }
+    }
+ }
+
+ //ex -2 속성 적용도 가능
