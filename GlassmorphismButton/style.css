@@ -155,6 +155,9 @@ spread
 
 설명 확인
 https://comizle.tistory.com/41
+
+box shadow는 멀티플한 값을 가질 수 있다.
+한 요소에 여러 box-shadow 적용 가능
 */
 
 .container .btn:nth-child(1)::before,
